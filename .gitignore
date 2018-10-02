@@ -71,3 +71,6 @@ typings/
 
 # Serverless directories
 .serverless
+
+#secert.js for token
+secrets.js
